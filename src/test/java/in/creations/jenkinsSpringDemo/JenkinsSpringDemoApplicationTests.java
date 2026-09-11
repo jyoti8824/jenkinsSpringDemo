@@ -1,4 +1,4 @@
-package in.coderarmy.jenkinsSpringDemo;
+package in.creations.jenkinsSpringDemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

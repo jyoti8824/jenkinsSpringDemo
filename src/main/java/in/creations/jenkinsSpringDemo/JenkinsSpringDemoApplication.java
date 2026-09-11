@@ -1,4 +1,4 @@
-package in.coderarmy.jenkinsSpringDemo;
+package in.creations.jenkinsSpringDemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
